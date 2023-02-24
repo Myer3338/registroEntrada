@@ -1,0 +1,10 @@
+C:\ProyectoAnder\controlEntrada\proyectoEntrada\proyectoEntrada\bin\Debug\proyectoEntrada.exe.config
+C:\ProyectoAnder\controlEntrada\proyectoEntrada\proyectoEntrada\bin\Debug\proyectoEntrada.exe
+C:\ProyectoAnder\controlEntrada\proyectoEntrada\proyectoEntrada\bin\Debug\proyectoEntrada.pdb
+C:\ProyectoAnder\controlEntrada\proyectoEntrada\proyectoEntrada\obj\Debug\proyectoEntrada.csproj.AssemblyReference.cache
+C:\ProyectoAnder\controlEntrada\proyectoEntrada\proyectoEntrada\obj\Debug\proyectoEntrada.csproj.SuggestedBindingRedirects.cache
+C:\ProyectoAnder\controlEntrada\proyectoEntrada\proyectoEntrada\obj\Debug\proyectoEntrada.Properties.Resources.resources
+C:\ProyectoAnder\controlEntrada\proyectoEntrada\proyectoEntrada\obj\Debug\proyectoEntrada.csproj.GenerateResource.cache
+C:\ProyectoAnder\controlEntrada\proyectoEntrada\proyectoEntrada\obj\Debug\proyectoEntrada.csproj.CoreCompileInputs.cache
+C:\ProyectoAnder\controlEntrada\proyectoEntrada\proyectoEntrada\obj\Debug\proyectoEntrada.exe
+C:\ProyectoAnder\controlEntrada\proyectoEntrada\proyectoEntrada\obj\Debug\proyectoEntrada.pdb
